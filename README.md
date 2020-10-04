@@ -7,8 +7,6 @@
 
 ## Ссылка на проект
 
-## Ссылка на демо
-
 ## Ссылка на презентацию
 https://docs.google.com/presentation/d/1xdK5BdiRwKKahEgwEpuBF6vhjurPHLRZE1ksqgL9N74/edit?usp=sharing
 
