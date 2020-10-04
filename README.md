@@ -11,6 +11,7 @@
 Уникальностью нашего решения является то, что мы используем помимо данных банкоматов нашего банка, также информацию о транзакциях банкоматов банков-партнеров.
 
 ## Ссылка на проект
+https://q-stat.ru/lod2020-gazprombank/
 
 ## Ссылка на презентацию
 https://docs.google.com/presentation/d/1xdK5BdiRwKKahEgwEpuBF6vhjurPHLRZE1ksqgL9N74/edit?usp=sharing
